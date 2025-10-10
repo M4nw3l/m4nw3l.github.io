@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: "M4nw3l Security"
 description: Cyber security, hacking, reverse engineering, IT and technology blog.  
+excerpt_separator: <!--<excerpt/>-->
